@@ -1,0 +1,15 @@
+me: file header
+# key: fh
+# --
+#!/usr/bin/env python
+# coding=utf-8
+# ------------------------------
+# **********
+# @Author: augety
+# @Email: zhaojiewang219@163.com
+# @Version: 1.0
+# @Date: `(format-time-string "%Y-%m-%d")`
+# @Description: $1
+# **********
+
+$0
